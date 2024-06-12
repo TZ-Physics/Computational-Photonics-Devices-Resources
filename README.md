@@ -1,4 +1,4 @@
-# Inverse-Design-and-Optimization-of-Photonics-Devices
+# Computational Photonics Devices & Fabrication
 
 ## Journal
 
