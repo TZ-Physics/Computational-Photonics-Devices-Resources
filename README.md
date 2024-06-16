@@ -187,4 +187,16 @@ Nature Communications, 2021.
 *S Mao, L Cheng, FN Khan, Z Geng, et al.*<br>
 Journal of Lightwave Technology, 2022.
 
+## Computational Fabrication & Lithgraphy
 
+### Computational Lithgraphy
+
+**Computational lithography for silicon photonics design.**<br>
+*S Lin, M Hammood, H Yun, E Luan, NAF Jaeger, L Chrostowski.*<br>
+IEEE Journal of Selected Topics in Quantum Electronics, 2019.
+[[Paper](https://open.library.ubc.ca/media/download/pdf/24/1.0388871/3)]
+
+**Diffpattern: Layout pattern generation via discrete diffusion.**<br>
+*Z Wang, Y Shen, W Zhao, Y Bai, G Chen, F Farnia, B Yu.*<br>
+2023 60th ACM/IEEE Design Automation Conference (DAC), 2023.
+[[Paper](https://arxiv.org/pdf/2303.13060)]
