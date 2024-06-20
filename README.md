@@ -1,4 +1,4 @@
-# Computational Photonics Devices (Chips) Design & Fabrication Resources
+# Computational Photonics Devices Design & Fabrication Resources
 
 ## Journal
 
