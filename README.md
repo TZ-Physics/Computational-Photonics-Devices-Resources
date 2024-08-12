@@ -1,6 +1,6 @@
 # Computational Photonics Design & Fabrication Resources
 
-## Journal
+## Journals
 
 *Nature Photonics（NP)*<br>
 
